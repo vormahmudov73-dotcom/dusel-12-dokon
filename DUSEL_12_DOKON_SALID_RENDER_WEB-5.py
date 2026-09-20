@@ -134,7 +134,7 @@ PRODUCTS = {
     },
 
     "SALID": {
-        "RANGLI ROZETKA VA KLYUCHATELLAR": {
+        "Salid Rozetka": {
             "White": [
             ('1-lik klyuchatel', 1.00),
             ('2-lik klyuchatel', 1.25),
