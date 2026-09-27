@@ -13,7 +13,7 @@ import sqlite3
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 BOT_TOKEN = os.getenv("BOT_TOKEN", "BU_YERGA_BOT_TOKEN")
-ADMIN_ID = 8914759604
+ADMIN_ID = 6033308194
 ADMIN_PHONE = os.getenv("ADMIN_PHONE", "")
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME", "")
 SHOP_LOCATION = os.getenv("SHOP_LOCATION", "")
